@@ -10,7 +10,7 @@ app.get("/products", (req, res) => {
     {
       id: 1,
       name: "Cow Milk",
-      price: 60
+      price: 65
     },
     {
       id: 2,

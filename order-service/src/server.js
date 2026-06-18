@@ -10,7 +10,7 @@ app.get("/orders", (req, res) => {
     {
       id: 1001,
       product: "Cow Milk",
-      quantity: 2
+      quantity: 4
     }
   ]);
 

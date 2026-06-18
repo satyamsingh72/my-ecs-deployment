@@ -18,7 +18,7 @@ function Products() {
   return (
     <div>
 
-      <h1>Products</h1>
+      <h1>My Products</h1>
 
       {products.map((product) => (
         <p key={product.id}>
